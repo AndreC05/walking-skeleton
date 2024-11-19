@@ -14,7 +14,7 @@ const geistMono = localFont({
 
 export const metadata = {
   title: "Vercel Test",
-  description: "Test deploy on Vercel",
+  description: "Test deploy on Vercel on new branch",
 };
 
 export default function RootLayout({ children }) {
